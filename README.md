@@ -13,3 +13,4 @@
 - [vault](https://github.com/shubhexists/vault) - A simplified version control system built in Rust for local files, quite similar to how git functions.
 - [proximity](https://github.com/shubhexists/proximity) - A self deployable terminal chat application, built using web socket implemented in C!
 - [libaddress](https://github.com/shubhexists/libaddress) - A robust TypeScript/JavaScript library designed for handling addresses across multiple countries having different formats.
+- [Moann](https://github.com/shubhexists/moann) - A lightweight, lightning fast, multithreaded alternative to Mechvibes for mechanical keyboard sound simulation
