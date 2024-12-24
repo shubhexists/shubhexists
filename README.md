@@ -14,6 +14,7 @@
 
 ### Services
 - [Ved Analytics](https://vedanalytics.in) - A privacy focussed website analytics platform you can use to generate beautiful dashboards for your websites
+- [Flux Mail](https://github.com/shubhexists/flux-mail) - A temp mail service and a SMTP Server written from scratch in Rust. Use it at [https://flux-mail.shubh.sh](https://flux-mail.shubh.sh)
 
 ### Fun
 - [Moann](https://github.com/shubhexists/moann) - A lightweight, lightning fast, multithreaded alternative to Mechvibes for mechanical keyboard sound simulation
