@@ -4,6 +4,7 @@
 - [vault](https://github.com/shubhexists/vault) - A simplified version control system built in Rust for local files, quite similar to how git functions.
 - [Vanish](https://github.com/shubhexists/vanish) - ( 🔴 BROKEN ) A simple config tool to make locally trusted X.509 development certificates for your domains. ( Alternative to MKCERT written in Rust)
 - [proximity](https://github.com/shubhexists/proximity) - A self deployable terminal chat application, built using web socket implemented in C!
+- [rds](https://github.com/shubhexists/rds) - ( 🔴 INCOMPLETE ) A disccord music bot written in Rust and Serenity.
 
 ### Libraries
 - [term_ansi](https://github.com/shubhexists/term_ansi) - A compilation of rust macros to implement ANSI Colour Codings in terminal
