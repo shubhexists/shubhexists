@@ -21,3 +21,4 @@
 - [Moann](https://github.com/shubhexists/moann) - A lightweight, lightning fast, multithreaded alternative to Mechvibes for mechanical keyboard sound simulation
 - [Otter](https://github.com/shubhexists/otter) - Make Unlimited Discord decorations for free 🎀
 - [2048](https://github.com/shubhexists/2048) - A 2048 game implemented in Flutter/Dart
+- [2025](https://github.com/shubhexists/2025) - Self-Hosted Calender for the year 2025 with custom events [https://2025.shubh.sh](https://2025.shubh.sh)
