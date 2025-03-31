@@ -7,6 +7,7 @@
 - [rds](https://github.com/shubhexists/rds) - ( 🔴 INCOMPLETE ) A disccord music bot written in Rust and Serenity.
 
 ### Libraries
+- [phonetics](https://github.com/shubhexists/phonetics) - Implementation of NYSIIS and Metaphone phonetic search algorithms in Rust 
 - [term_ansi](https://github.com/shubhexists/term_ansi) - A compilation of rust macros to implement ANSI Colour Codings in terminal
 - [react-maps](https://github.com/shubhexists/react-maps) - A react Components Library that deals with Maps...
 - [libaddress](https://github.com/shubhexists/libaddress) - A robust TypeScript/JavaScript library designed for handling addresses across multiple countries having different formats.
