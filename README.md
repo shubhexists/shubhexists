@@ -6,8 +6,8 @@
 - [proximity](https://github.com/shubhexists/proximity) - A self deployable terminal chat application, built using web socket implemented in C!
 - [rds](https://github.com/shubhexists/rds) - ( 🔴 INCOMPLETE ) A disccord music bot written in Rust and Serenity.
 
-### Public Contracts (Deployed)
-- [uniswap-router](https://github.com/shubhexists/uniswap-router) - Uniswap Router contract with custom fees options. 
+### Contracts (Deployed)
+- [Better Uniswap](https://github.com/shubhexists/uniswap-router) - Better ways to interact with Uniswap Router Contracts 
  
 ### Libraries
 - [phonetics](https://github.com/shubhexists/phonetics) - Implementation of NYSIIS and Metaphone phonetic search algorithms in Rust 
