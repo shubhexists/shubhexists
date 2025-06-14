@@ -7,7 +7,7 @@
 - [rds](https://github.com/shubhexists/rds) - ( 🔴 INCOMPLETE ) A disccord music bot written in Rust and Serenity.
 
 ### Public Contracts (Deployed)
-- [uniswap-v2-router](https://github.com/shubhexists/uniswap-v2-router) - Uniswap V2 Router contract with custom fees options. 
+- [uniswap-router](https://github.com/shubhexists/uniswap-router) - Uniswap Router contract with custom fees options. 
  
 ### Libraries
 - [phonetics](https://github.com/shubhexists/phonetics) - Implementation of NYSIIS and Metaphone phonetic search algorithms in Rust 
