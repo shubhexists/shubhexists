@@ -18,7 +18,7 @@
 - [go-json-db](https://github.com/shubhexists/go-json-db) - A JSON Database similar to MongoDB(Atlas) implemented in Golang.
 
 ### Services
-- [Random Shader](https://random-shader.shubh.sh/) - Random Shader is a text to shader platform which generates and renders GLSL 2.0 shaders directly in your browser. You can manipulate with the shader directly from the UI!
+- [Random Shader](https://random-shader.shubh.sh/) - Random Shader is a text to shader platform which generates and renders GLSL 2.0 shaders directly in your browser. You can manipulate with the shader directly from the UI! Deployed at - [https://random-shader.shubh.sh/](https://random-shader.shubh.sh/)
 - [Ved Analytics](https://vedanalytics.in) - A privacy focussed website analytics platform you can use to generate beautiful dashboards for your websites
 - [Flux Mail](https://github.com/shubhexists/flux-mail) - A temp mail service and a SMTP Server written from scratch in Rust. Use it at [https://flux-mail.shubh.sh](https://flux-mail.shubh.sh)
 - [XION Faucet](https://github.com/shubhexists/xion-faucet) - A faucet that mints cw20 tokens of [Blazeswap](https://blazeswap.io) and XION in users wallet on xion-testnet-2. Use it at [https://xion-faucet-beta.vercel.app](https://xion-faucet-beta.vercel.app)
