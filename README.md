@@ -7,10 +7,11 @@
 - [rds](https://github.com/shubhexists/rds) - ( 🔴 INCOMPLETE ) A disccord music bot written in Rust and Serenity.
 
 ### Contracts (Deployed)
-- [Better Uniswap](https://github.com/shubhexists/better-uniswap-router) - Better ways to interact with Uniswap Router Contracts 
+- [Better Uniswap](https://github.com/shubhexists/better-uniswap-router) -  ( 🔴 INCOMPLETE ) Better ways to interact with Uniswap Router Contracts 
  
 ### Libraries
-- [phonetics](https://github.com/shubhexists/phonetics) - Implementation of NYSIIS and Metaphone phonetic search algorithms in Rust 
+- [tonelli-rs](https://github.com/shubhexists/tonelli-rs) - Pure Rust implementation of Tonelli Shanks Algorithm used in Elliptic Curve Cryptography used to calculate square roots of numbers in finite fields.
+- [phonetics](https://github.com/shubhexists/phonetics) - Implementation of NYSIIS and Metaphone phonetic search algorithms in Rust
 - [term_ansi](https://github.com/shubhexists/term_ansi) - A compilation of rust macros to implement ANSI Colour Codings in terminal
 - [react-maps](https://github.com/shubhexists/react-maps) - A react Components Library that deals with Maps...
 - [libaddress](https://github.com/shubhexists/libaddress) - A robust TypeScript/JavaScript library designed for handling addresses across multiple countries having different formats.
@@ -27,4 +28,4 @@
 - [Moann](https://github.com/shubhexists/moann) - A lightweight, lightning fast, multithreaded alternative to Mechvibes for mechanical keyboard sound simulation
 - [Otter](https://github.com/shubhexists/otter) - Make Unlimited Discord decorations for free 🎀
 - [2048](https://github.com/shubhexists/2048) - A 2048 game implemented in Flutter/Dart
-- [2025](https://github.com/shubhexists/2025) - Self-Hosted Calender for the year 2025 with custom events [https://2025.shubh.sh](https://2025.shubh.sh)
+- [2025](https://github.com/shubhexists/2025) - ( 🔴 BROKEN ) Self-Hosted Calender for the year 2025 with custom events [https://2025.shubh.sh](https://2025.shubh.sh)
